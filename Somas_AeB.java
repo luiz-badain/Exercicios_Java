@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SOMA {
+public class Somas_AeB {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
         int a,b, valor;
